@@ -1,0 +1,11 @@
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Release\net8.0\PubTmp\Out\EnhanzerBookStore.exe
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Release\net8.0\PubTmp\Out\EnhanzerBookStore.dll
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Release\net8.0\PubTmp\Out\EnhanzerBookStore.deps.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Release\net8.0\PubTmp\Out\EnhanzerBookStore.runtimeconfig.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Release\net8.0\PubTmp\Out\EnhanzerBookStore.pdb
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

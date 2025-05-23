@@ -1,0 +1,146 @@
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\appsettings.Development.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\appsettings.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.staticwebassets.endpoints.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.exe
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.deps.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.runtimeconfig.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.dll
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.pdb
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.csproj.AssemblyReference.cache
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.AssemblyInfoInputs.cache
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.AssemblyInfo.cs
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.csproj.CoreCompileInputs.cache
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.MvcApplicationPartsAssemblyInfo.cs
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.sourcelink.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\scopedcss\bundle\EnhanzerBookStore.styles.css
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.EnhanzerBookStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.EnhanzerBookStore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.build.EnhanzerBookStore.props
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnhanzerBookStore.props
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnhanzerBookStore.props
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\Enhanzer.B3EB07A6.Up2Date
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.dll
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\refint\EnhanzerBookStore.dll
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.pdb
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.genruntimeconfig.cache
+D:\MyProjects\Interview assesments\Enhanzer-Test\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\ref\EnhanzerBookStore.dll
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\appsettings.json
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.staticwebassets.endpoints.json
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.exe
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.deps.json
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.runtimeconfig.json
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.dll
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.pdb
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.csproj.AssemblyReference.cache
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.AssemblyInfoInputs.cache
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.AssemblyInfo.cs
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.csproj.CoreCompileInputs.cache
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\scopedcss\bundle\EnhanzerBookStore.styles.css
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.EnhanzerBookStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.EnhanzerBookStore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.build.EnhanzerBookStore.props
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnhanzerBookStore.props
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnhanzerBookStore.props
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\Enhanzer.B3EB07A6.Up2Date
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.dll
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\refint\EnhanzerBookStore.dll
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.pdb
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.genruntimeconfig.cache
+C:\Users\ashan\Downloads\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\ref\EnhanzerBookStore.dll
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\appsettings.json
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.staticwebassets.endpoints.json
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.exe
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.deps.json
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.runtimeconfig.json
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.dll
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.pdb
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.csproj.AssemblyReference.cache
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.AssemblyInfoInputs.cache
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.AssemblyInfo.cs
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.csproj.CoreCompileInputs.cache
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\scopedcss\bundle\EnhanzerBookStore.styles.css
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.EnhanzerBookStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.EnhanzerBookStore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.build.EnhanzerBookStore.props
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnhanzerBookStore.props
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnhanzerBookStore.props
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\Enhanzer.B3EB07A6.Up2Date
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.dll
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\refint\EnhanzerBookStore.dll
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.pdb
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.genruntimeconfig.cache
+C:\Users\ashan\Downloads\Enhanzer-Test-main\Enhanzer-Test-main\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\ref\EnhanzerBookStore.dll
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\appsettings.Development.json
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\appsettings.json
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.staticwebassets.endpoints.json
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.exe
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.deps.json
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.runtimeconfig.json
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.dll
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\EnhanzerBookStore.pdb
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.csproj.AssemblyReference.cache
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.AssemblyInfoInputs.cache
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.AssemblyInfo.cs
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.csproj.CoreCompileInputs.cache
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.MvcApplicationPartsAssemblyInfo.cs
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.sourcelink.json
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\scopedcss\bundle\EnhanzerBookStore.styles.css
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.EnhanzerBookStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.EnhanzerBookStore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.build.EnhanzerBookStore.props
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnhanzerBookStore.props
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnhanzerBookStore.props
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\Enhanzer.B3EB07A6.Up2Date
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.dll
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\refint\EnhanzerBookStore.dll
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.pdb
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\EnhanzerBookStore.genruntimeconfig.cache
+D:\MyProjects\Interview_assesments\EnhanzerTest\EnhanzerBookStore\EnhanzerBookStore\obj\Debug\net8.0\ref\EnhanzerBookStore.dll
